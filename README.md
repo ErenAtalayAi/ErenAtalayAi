@@ -1,6 +1,6 @@
-# **<div align="center">EREN ATALAY</div>**  
 
-## *<div align="center">Full Stack Web Developer | AI Analyst | Cybersecurity Analyst<div>*
+
+# <div align="center">Full Stack Web Developer | AI Analyst | Cybersecurity Analyst<div>
 
 ---
 
